@@ -1,0 +1,12 @@
+s-lab@ds-lab-System-Product-Name:~/Documents/dslab421125106029/ex01$ ./a.out
+
+array operation menu:
+1. create array
+2. insert element
+3.search element
+4.delete element
+5. display array
+6. exit
+enter your choice:6
+ds-lab@ds-lab-System-Product-Name:~/Documents/dslab421125106029/ex01$ 
+
